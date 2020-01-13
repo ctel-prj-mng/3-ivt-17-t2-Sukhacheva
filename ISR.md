@@ -7,3 +7,5 @@ https://github.com/ctel-prj-mng/3-ivt-17-t2-Sukhacheva/blob/master/%D0%A1%D1%83%
 https://www.figma.com/file/uaI9pvrLcvOPidg7vBRaGr/Model?node-id=0%3A1
 
 2.3. Создание презентации-глоссария на тему «Гибкая методология SCRUM» средствами веб-технологий HTML, CSS, JS (Web-based slideshow) и оформление его в виде веб-сайта с использованием сервиса GitHub Pages.
+
+https://github.com/ctel-prj-mng/scrum-glossary/blob/master/index.html
